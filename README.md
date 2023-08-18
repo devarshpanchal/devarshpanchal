@@ -11,6 +11,6 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | Java
-- 🌐 &nbsp; Django | PHP | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; Django | React.js | PHP | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Android Studio | Visual Studio code | jupyter notebook | XAMPP | Git | GitHub
+- 🔧 &nbsp; Android Studio | Visual Studio code | XAMPP | Git | GitHub
