@@ -7,7 +7,7 @@
   
 <div align="center"><h3> 👨💻 About Me </h3></div>
 
-<div align="center">- 🎓 &nbsp; Currently 4th year Computer Engineering student in LJ Institute Of Engineering & Technology.</div>
+<div align="center">- 🎓 &nbsp; I'm currently pursuing B.E. in Computer Engineering at LJ Institute Of Engineering & Technology.</div>
  
 <div align="center"><h3>🛠 Tech Stack</h3></div>
 <div align="center">
