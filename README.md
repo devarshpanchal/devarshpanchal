@@ -16,3 +16,4 @@
 <div align="center">- 🛢 &nbsp; MySQL</div>
 <div align="center">- 🔧 &nbsp; Android Studio | Visual Studio code | XAMPP | Git | GitHub
 </div>
+<p align="center">- Know more about m : <a href="https://www.linkedin.com/in/devarsh-panchal-a33989283/">here</a></p> 
